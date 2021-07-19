@@ -40,7 +40,7 @@ O tutorial abaixo foi feito utilizando o sistema operacional Ubuntu 18.04.5.
 
 1. Clone o repositorio
     ```sh
-    git clone https://github.com/xShinohara/VirtualPet.git
+    git clone git@github.com:als-v/VirtualPet_BackEnd.git
     ```
 2. No terminal rode os seguintes comandos:
 	```sh
@@ -74,7 +74,7 @@ O tutorial abaixo foi feito utilizando o sistema operacional Ubuntu 18.04.5.
 Juliano Kendyi Shinohara - <br>
 Alisson da Silva Vieira - alisson.v3@hotmail.com  
 
-Project Link: [https://github.com/xShinohara/VirtualPet.git](https://github.com/xShinohara/VirtualPet.git)
+Project Link: [https://github.com/als-v/VirtualPet_BackEnd](https://github.com/als-v/VirtualPet_BackEnd)
 
 
 
